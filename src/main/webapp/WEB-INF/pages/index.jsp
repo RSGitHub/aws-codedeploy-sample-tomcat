@@ -68,15 +68,15 @@
         <h1>Grand Opening!</h1>
         <p>To celebrate our grand opening, this week only all suits are <b>25% off</b> and include <b>free shipping!</b></p>
         <div class="row">
-          <h2><center>Transform your dog from silly to stylish!</center></h2>
+          <h2><center>Transform your cat from silly to stylish!</center></h2>
           <div class="col-sm-4">
-            <center><img src="images/sales-lobsterdog.png" style="width:287px;height:360px;"></center>
+            <center><img src="images/sales-lobstercat.png" style="width:287px;height:360px;"></center>
           </div>
           <div class="col-sm-4" style="font-size: 300px">
             <center>&#8594;</center>
           </div>
           <div class="col-sm-4">
-            <center><img src="images/classy-dog1.png" style="width:268px;height:360px;"><center>
+            <center><img src="images/classy-cat1.png" style="width:268px;height:360px;"><center>
           </div>
         </div>
       </div>
@@ -96,8 +96,8 @@
             <h3 class="panel-title">Enjoy a Night on the Town</h3>
           </div>
           <div class="panel-body">
-            Meeting your special someone? Make sure your dog looks the part!
-            <img src="images/casual-dog2.png" style="width:236px;height:295px;">
+            Meeting your special someone? Make sure your cat looks the part!
+            <img src="images/casual-cat2.png" style="width:236px;height:295px;">
           </div>
         </div>
       </div>
@@ -108,7 +108,7 @@
           </div>
           <div class="panel-body">
             With suits these fashionable, no one will question why your pet is there!
-            <img src="images/fancy-dog3.png" style="width:295px;height:433px;">
+            <img src="images/fancy-cat3.png" style="width:295px;height:433px;">
           </div>
         </div>
       </div>
@@ -120,7 +120,7 @@
           <div class="panel-body">
             Don't let this happen to your pooch! 
             Every purchase comes with free custom alterations to ensure a comfortable and snazzy fit.
-            <img src="images/alterations-dog4.png" style="width:287px;height:300px;">
+            <img src="images/alterations-cat4.png" style="width:287px;height:300px;">
           </div>
         </div>
       </div>
